@@ -32,7 +32,12 @@ The system adheres to Islamic law, providing users and companies with a comprehe
 
 ## Technology Stack
 - **Backend**: Laravel 10, PHP 8.1
-- **Database**: MySQL, designed with entity relationships and mappings.
+- **Database**: MySQL.
+    - **Design**
+        The database design includes the following resources:
+        - **Requirements:**
+            - **ERD:** [ERD.jpg](./databases/requirement/ERD.jpg)
+            - **Mapping:** [mapping.txt](./databases/requirement/Mapping.txt)
 - **Task Processing**: Laravel Queues (used for tasks like PDF generation).
 - **Authentication**: JWT (JSON Web Tokens) for secure API access.
 
@@ -44,7 +49,6 @@ The system adheres to Islamic law, providing users and companies with a comprehe
 
 ## API Documentation
 For detailed API documentation, please refer to the following link:
-
 [API Documentation](https://documenter.getpostman.com/view/35113504/2sA3rwMtuX)
 
 ## Outcome

@@ -42,5 +42,10 @@ The system adheres to Islamic law, providing users and companies with a comprehe
 - `Laravel countrypkg`: For managing country-specific functionalities.
 - `Simple-Qrcode`: For QR code generation in insurance documents.
 
+## API Documentation
+For detailed API documentation, please refer to the following link:
+
+[API Documentation](https://documenter.getpostman.com/view/35113504/2sA3rwMtuX)
+
 ## Outcome
 The project was successfully developed, deployed, and sold, providing a robust, Sharia-compliant solution for Islamic insurance in Libya.

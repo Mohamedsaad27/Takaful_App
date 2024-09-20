@@ -36,8 +36,8 @@ The system adheres to Islamic law, providing users and companies with a comprehe
     - **Design**
         The database design includes the following resources:
         - **Requirements:**
-            - **ERD:** [ERD.jpg](./databases/requirement/ERD.jpg)
-            - **Mapping:** [mapping.txt](./databases/requirement/Mapping.txt)
+            - **ERD:** [ERD.jpg](./database/requirement/ERD.jpg)
+            - **Mapping:** [mapping.txt](./database/requirement/Mapping.txt)
 - **Task Processing**: Laravel Queues (used for tasks like PDF generation).
 - **Authentication**: JWT (JSON Web Tokens) for secure API access.
 
